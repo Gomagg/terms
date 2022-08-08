@@ -2,7 +2,8 @@
 @media only screen and (min-width: 481px) and (max-width: 1800px) {
   body {
     text-align: center;
-    height: 150vh;
+    height: 180vh;
+    max-width: 2000px;
     padding: 1.5% 5%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
@@ -165,7 +166,7 @@
   body {
     padding: 2%;
     text-align: center;
-    height: 160vh;
+    height: 240vh;
     max-width: px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
